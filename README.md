@@ -1,2 +1,2 @@
-# hello-conflicts
+# Hello conflicts
 Causing on-purpose conflict 
